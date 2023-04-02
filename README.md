@@ -55,9 +55,7 @@ Possible strategies for Player B:
 Payoffs：
 
 1. Win-win situation: All players choose to trust each other, player A chooses to give all of his money to Player B, and Player B chooses to triple the money given by Player A and return half of it to Player A. If this can be done in each round, the sum of the benefits will be maximised. Eventually, the two sides will be able to split the proceeds.
-
 2. The choice B made in order to gain A's trust in the second round. AB trusts each other in the first round, Player A chooses to give all of his money to Player B, and Player B chooses to triple the money A gives him and return half of it to Player A. But in the second round, B betrays A and chooses to double the amount of money A gives him, so that he doesn't have to give A any money and maximizes his own profit.
-
 3. Compromise: A trusts the other person and gives B a certain amount of X1 in the first round. B chooses to double the amount of money A gives him and give A a certain amount of Y1 (Y1 is greater than X1). A chooses to continue trusting the other party and gives B a certain amount X2 in the second round. B chooses to multiply the amount of money that A gives him by 2 and give A a certain amount of Y2.
 
 4. A completely distrusts B and sees B as a purely rational person. In this case, A won't give B any money, so A can make sure he still has $1,000 at the end. But at this point, the sum of the benefits is the least.
