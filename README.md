@@ -42,6 +42,14 @@ Possible strategies for Player A：
    1) High risk. Trust B and give B some money in the first round, and if B chooses to give back A portion of the proceeds (greater than what A gives to B), continue to trust B in the second round. If B fails to keep his promise in the first round, no money is given to B in the second round. 
 
    2) Less risk. Trust B and give B some money in the first round, and if B chooses to return A portion of the proceeds (greater than what A gives B), betray B in the second round and give B no money at all. If B fails to keep his promise in the first round, he gets nothing in the second round.
+   
+Possible strategies for Player B:
+
+1. win-win situation: In both rounds, B chooses to multiply the amount of money given to him by A by three times and return it to A by half. If this can be done in each round, the sum of the benefits will be maximised. Eventually, the two sides will be able to split the proceeds.
+
+2.Profit maximization: Convince A to cooperate in the first round and give all of his money to B, who keeps his word and chooses to triple the money A gives him and return half of it to A. In the second round, A is still persuaded to give all the money to B, but B betrays A. B chooses to double the money A gave him and does not give any money back to A.
+
+3.Compromise: Once A chooses to give B A certain amount of money (which B needs to convince A to do), whatever choice is made returns A certain amount of money so that A's total amount of money at the end of the round is greater or equal to that at the beginning of the round.
 
 
 Payoffs：
