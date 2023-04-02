@@ -69,6 +69,8 @@ Based on an analysis of payoffs, it's easy to see that A and B can only maximize
 
 - Evaluations: e.g. efficiency and fairness
 
+In this experiment, A and B are relatively unfair, because if A chooses to minimize the risk, he will not give any money to B, thus ensuring that he has at least $1000. However, for B this would mean that his payoff would be 0. So B needs to make A believe in herself in some way, such as giving back more money after A gives A certain amount of money in the first round, or negotiating with A and keeping his promise before the game starts. In my opinion, B is in a relatively passive position in the game, and B needs to persuade A not to pursue the most conservative option with more money. A, on the other hand, needs to accurately judge and distinguish B's real intention if he wants to make more money.
+
 ### Code
 - Game Environment
 - Strategic plays
