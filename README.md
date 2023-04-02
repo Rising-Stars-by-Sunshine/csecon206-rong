@@ -30,6 +30,20 @@ Note: please insert the screenshot of the answers to your research question by C
 This trust game is a model of the game used to study trust, reciprocal preference, altruistic preference and egoistic preference.
 In the version of the game I designed, there were two anonymously matched players, named A and B, playing the role of real life principal and agent. There are two rounds of the game with similar rules. After the first round, players are allowed to know the outcome of the first round and the strategy chosen by their opponents in the first round. Therefore, they can adjust their strategy in the second round. That is, in my current hypothesis, the strategies chosen by both players in the first round will directly affect the strategies chosen by both players in the second round and the level of trust between players.
 At the beginning of the game, A has $1,000 and B has $0. A has to choose whether or not to give B some of his money, which I'll call X. B, knowing A's choice, can choose whether to get double or triple X, which is 2X or 3X. If A chooses to receive 2X, he has no mandatory requirement to return A certain amount but is free to choose whether or not to return A portion of his money, which I'll call Y. If A chooses to get 3X, then he is forced to give back at least 1.5X. That is, if A chooses to get 3X, then he is forced to return to A at least 1.5X+Y. The value of Y can be determined by B himself (it must be greater than or equal to 0). At the end of the first round, both players immediately know the other's choice and their existing balance, and then play a second round with exactly the same rules.
+
+Payoff：
+
+1. Win-win situation: All players choose to trust each other, player A chooses to give all of his money to Player B, and Player B chooses to triple the money given by Player A and return half of it to Player A. If this can be done in each round, the sum of the benefits will be maximised. Eventually, the two sides will be able to split the proceeds.
+
+2. The choice B made in order to gain A's trust in the second round. AB trusts each other in the first round, Player A chooses to give all of his money to Player B, and Player B chooses to triple the money A gives him and return half of it to Player A. But in the second round, B betrays A and chooses to double the amount of money A gives him, so that he doesn't have to give A any money and maximizes his own profit.
+
+3. Compromise: A trusts the other person and gives B a certain amount of X1 in the first round. B chooses to double the amount of money A gives him and give A a certain amount of Y1 (Y1 is greater than X1). A chooses to continue trusting the other party and gives B a certain amount X2 in the second round. B chooses to multiply the amount of money that A gives him by 2 and give A a certain amount of Y2.
+
+4. A completely distrusts B and sees B as a purely rational person. In this case, A won't give B any money, so A can make sure he still has $1,000 at the end. But at this point, the sum of the benefits is the least.
+
+5. A trusts the other person and gives B a certain amount of X1 in the first round. B betrays A and chooses to double the amount of money A gives him. In the second round, A still chooses to trust B and still gives B A certain amount X2. B still betrays A and chooses to multiply the money A gives him by two times. In this case, B is going to get a bigger payoff.
+
+6. A trusts the other person and gives B a certain amount of X1 in the first round. B betrays A and chooses to double the amount of money A gives him. In the second round, A chose not to trust B and pay B any money, so that in fact nothing changed in the second round, the outcome of the game was decided at the end of the first round.
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 
