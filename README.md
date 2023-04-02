@@ -31,6 +31,19 @@ This trust game is a model of the game used to study trust, reciprocal preferenc
 In the version of the game I designed, there were two anonymously matched players, named A and B, playing the role of real life principal and agent. There are two rounds of the game with similar rules. After the first round, players are allowed to know the outcome of the first round and the strategy chosen by their opponents in the first round. Therefore, they can adjust their strategy in the second round. That is, in my current hypothesis, the strategies chosen by both players in the first round will directly affect the strategies chosen by both players in the second round and the level of trust between players.
 At the beginning of the game, A has $1,000 and B has $0. A has to choose whether or not to give B some of his money, which I'll call X. B, knowing A's choice, can choose whether to get double or triple X, which is 2X or 3X. If A chooses to receive 2X, he has no mandatory requirement to return A certain amount but is free to choose whether or not to return A portion of his money, which I'll call Y. If A chooses to get 3X, then he is forced to give back at least 1.5X. That is, if A chooses to get 3X, then he is forced to return to A at least 1.5X+Y. The value of Y can be determined by B himself (it must be greater than or equal to 0). At the end of the first round, both players immediately know the other's choice and their existing balance, and then play a second round with exactly the same rules.
 
+Possible strategies for Player A：
+
+1. win-win situation: In both rounds, A trusts B to give back half of the profits, so A gives all the money to B.
+
+2. risk minimization: Don't trust B in both rounds and don't pay B any money at all. The end of the game guarantees A $1,000.
+
+3. Compromise:
+
+   1) High risk. Trust B and give B some money in the first round, and if B chooses to give back A portion of the proceeds (greater than what A gives to B), continue to trust B in the second round. If B fails to keep his promise in the first round, no money is given to B in the second round. 
+
+   2) Less risk. Trust B and give B some money in the first round, and if B chooses to return A portion of the proceeds (greater than what A gives B), betray B in the second round and give B no money at all. If B fails to keep his promise in the first round, he gets nothing in the second round.
+
+
 Payoffs：
 
 1. Win-win situation: All players choose to trust each other, player A chooses to give all of his money to Player B, and Player B chooses to triple the money given by Player A and return half of it to Player A. If this can be done in each round, the sum of the benefits will be maximised. Eventually, the two sides will be able to split the proceeds.
