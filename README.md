@@ -64,6 +64,9 @@ Payoffs：
 
 6. A trusts the other person and gives B a certain amount of X1 in the first round. B betrays A and chooses to double the amount of money A gives him. In the second round, A chose not to trust B and pay B any money, so that in fact nothing changed in the second round, the outcome of the game was decided at the end of the first round.
 - Solution Concept
+
+Based on an analysis of payoffs, it's easy to see that A and B can only maximize their overall benefits when they both trust each other completely through two rounds of the game. It's worth noting that I don't think either A or B, as rational thinking individuals, would choose to betray each other right away in the first round. Because they betray each other in the first round, they will not be able to trust each other in the second round and will use extreme measures to maximize their personal interests in the second round. Interestingly, because there is no third round, the sense of trust has lost its meaning in this round of cooperation. Under these circumstances, would A and B really choose to trust each other in the second round? That's probably what I'm trying to study in this experiment based on how people actually react.
+
 - Evaluations: e.g. efficiency and fairness
 
 ### Code
