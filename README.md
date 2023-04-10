@@ -79,12 +79,14 @@ In this experiment, A and B are relatively unfair, because if A chooses to minim
 
 
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- Behavioral experimental paper：Fowler, James H., and Nicholas A. Christakis. "Cooperative behavior cascades in human social networks." Proceedings of the National Academy of Sciences 107, no. 12 (2010): 5334-5338.
+
+What research question does the behavioral experimental research intended to address?
+
+The behavioral experiment was designed to explore non-economic considerations of trust behavior, such as emotional and social factors, and how these affect how people behave in trust games. Specifically, the authors focus on three research questions: 
+i. Do people take into account each other's emotional states during trust games? 
+ii.  Are people affected by social factors in the trust game? 
+iii.  What are the effects of these non-economic factors on people's trust behavior?
 
 ### More about the Author
 - headshot
