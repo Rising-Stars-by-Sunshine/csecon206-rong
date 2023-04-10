@@ -90,7 +90,7 @@ iii.  What are the effects of these non-economic factors on people's trust behav
 
 ### More about the Author
 - headshot
-！[image](WechatIMG46.jpeg)
+！[image](WechatIMG46.png)
 - self-introduction
 - Final reflections 
   - intellectual growth
