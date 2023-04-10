@@ -97,10 +97,10 @@ iii.  What are the effects of these non-economic factors on people's trust behav
   - professional growth
   - living a purposeful life
 
-< img src="WechatIMG46.png" width="100px">
-< img src="WechatIMG46.png" width="100px">
 
-[image](WechatIMG46.png)
+   
+   ![image](WechatIMG46.png)
+   
 ### References
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
