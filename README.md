@@ -90,13 +90,15 @@ iii.  What are the effects of these non-economic factors on people's trust behav
 
 ### More about the Author
 - headshot
-！[image](WechatIMG46.png)
+
 - self-introduction
 - Final reflections 
   - intellectual growth
   - professional growth
   - living a purposeful life
 
+
+！[image](WechatIMG46.png)
 ### References
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
