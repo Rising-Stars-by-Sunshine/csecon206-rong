@@ -98,6 +98,8 @@ iii.  What are the effects of these non-economic factors on people's trust behav
   - living a purposeful life
 
 < img src="WechatIMG46.png" width="100px">
+< img src="WechatIMG46.png" width="100px">
+
 [image](WechatIMG46.png)
 ### References
 
