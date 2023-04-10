@@ -99,7 +99,7 @@ iii.  What are the effects of these non-economic factors on people's trust behav
 
 
    
-   ![image](WechatIMG46.png)
+ ![image](WechatIMG46.png)
    
 ### References
 
