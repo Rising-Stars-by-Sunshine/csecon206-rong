@@ -90,7 +90,7 @@ Anderhub, Vital, Dirk Engelmann, and Werner Güth. "An experimental study of the
 3. Conditional cooperation: Participants were more willing to cooperate (return more money) when they believed that another player was also likely to cooperate, and less likely to cooperate (return less money) when they believed that another player was likely to defect.
 
 
-### Reinforcement learning paper:###
+### Reinforcement learning paper:
 Wu, D. J., Steven O. Kimbrough, and Fang Zhong. "Artificial agents play the" Mad Mex trust game": a computational approach." In Proceedings of the 35th Annual Hawaii International Conference on System Sciences, pp. 389-398. IEEE, 2002.
 
 
