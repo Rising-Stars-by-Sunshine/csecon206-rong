@@ -1,4 +1,4 @@
-# # Title Trust Game Dessigned by Rong (https://www.nature.com/articles/s41562-021-01152-2)
+# # Trust Game Dessigned by Rong
 ## Project information
 - **Author**: Rong Cong,Political Economy, 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
