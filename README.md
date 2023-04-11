@@ -96,7 +96,7 @@ Wu, D. J., Steven O. Kimbrough, and Fang Zhong. "Artificial agents play the" Mad
 
 
 - The game environment and learning algorithm:
-- 
+
 The researchers designed a computer-simulated game environment called the "Mad Mex trust game"(We 2002). In the game, there are two agents, each with some coins. In each round, the agents can choose to cooperate or defect. If both agents choose to cooperate, they will each lose some coins but collectively gain more coins. If one agent chooses to defect, they will gain more coins, and the other agent will lose their coins. The goal of the agents is to maximize their total number of coins.
 The researchers used a learning algorithm called Q-learning to train the agents. Q-learning is a feedback-based reinforcement learning algorithm in which the agents continually try and learn the optimal action strategy in the game to maximize their cumulative reward (We 2002). At the end of each round, the agents update their Q-value function to reflect the quality of the action they took. In the early stages of the game, the agents explore with random action strategies and adjust based on feedback. As the game progresses, the agents gradually develop more optimized strategies.
 
