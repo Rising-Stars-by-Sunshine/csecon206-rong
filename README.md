@@ -52,7 +52,7 @@ In the trust game, the backward induction solution is effective because it allow
 
 ### Part2：Code
 
-\href{https://github.com/Rising-Stars-by-Sunshine/csecon206-rong/blob/main/hxm-new_project.otreezip}{Customized oTree code}
+\href{https://github.com/Rising-Stars-by-Sunshine/csecon206-rong/blob/main/hxm-new_project.otreezip} {Customized oTree code}
 The customized game changed three things from the original game. First, the endowment went from 100 to 10,000. Second, the multiplier went from 3 to 10,000. Third, custom games collect the gender and age of the player and the socio-cultural environment of the simple player before the game starts.I will introduce the reasons for my modification in detail below.
 
 ### Explanation
