@@ -92,7 +92,7 @@ Trust and return: Participants who invest in (fiduciaries) tend to reward trust 
 
 Reputation: Participants build trustworthy or untrustworthy reputations based on their past actions in the game, which influence their behavior in subsequent rounds.
 
-- Conditional cooperation: Participants were more willing to cooperate (return more money) when they believed that another player was also likely to cooperate, and less likely to cooperate (return less money) when they believed that another player was likely to defect.
+Conditional cooperation: Participants were more willing to cooperate (return more money) when they believed that another player was also likely to cooperate, and less likely to cooperate (return less money) when they believed that another player was likely to defect.
 
 
 
