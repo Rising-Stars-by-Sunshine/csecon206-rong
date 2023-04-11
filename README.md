@@ -33,7 +33,7 @@ The customized game changed three things from the original game. First, the endo
 - Age is expected to influence the level of trust between players in the trust game. Participants who are older tend to exhibit higher levels of trust in the trust game, which may be related to a more stable and conservative mindset that develops with age (Cappelletti et al. 2011). However, some experiments have shown that age does not significantly affect behavior in the receiving phase, possibly because participants are more focused on their own interests during that phase (Cappelletti et al. 2011). Through sufficient data collection, customized games will link age with social and cultural environments as well as gender, attempting to further analyze the influence of gender on the level of trust.
 
 - The impact of social and cultural environments on trust between players in the trust game has been almost fully established. For example, Gelfand et al.'s research explored cultural differences in 62 societies and linked these differences to individuals' trust behavior in the trust game. The study found that cultural differences in individualism and collectivism significantly influence the level of trust between players in the trust game (Gelfand et al. 2004). In an individualistic cultural environment, people tend to exhibit more adventurous behavior, focusing more on individual interests and self-expression, which may result in more adventurous behavior. In a collectivist cultural environment, people place more emphasis on long-term interests and stable relationships, which may result in more conservative behavior (Gelfand et al. 2004). Therefore, before the game starts, customized games will ask players to briefly describe their own social and cultural environments as a reference for analyzing their behavior. Since social and cultural environments are a large category that cannot be comprehensively collected in a short period of time, this information is important but only serves as a reference.
-- oTree Experimental Code 
+oTree Experimental Code 
 
 
 ### Spotlight
@@ -51,7 +51,7 @@ iii.  What are the effects of these non-economic factors on people's trust behav
    
  ![image](WechatIMG46.png)
  
- As a junior majoring in political economy, Rong Cong is very interested in economics, anthropology and psychology. She hopes to do enough cross-disciplinary research and study in the future. At the same time, Rong Cong is also a music lover. This is a cover of her song 👉🏻https://y.music.163.com/m/artist?app_version=8.9.61&id=46956986&userid=1572161264&dlt=0846.
+-  As a junior majoring in political economy, Rong Cong is very interested in economics, anthropology and psychology. She hopes to do enough cross-disciplinary research and study in the future. At the same time, Rong Cong is also a music lover. This is a cover of her song 👉🏻https://y.music.163.com/m/artist?app_version=8.9.61&id=46956986&userid=1572161264&dlt=0846.
    
 ### References
 
