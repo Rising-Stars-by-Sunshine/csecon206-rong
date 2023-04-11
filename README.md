@@ -1,10 +1,9 @@
-# # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# # Title Trust Game Dessigned by Rong (https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
 - **Author**: Rong Cong,Political Economy, 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her wonderful curriculum setting and instructions on CSEcon 206.Thank Yiyuan very much for helping me deep understand Otree.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
