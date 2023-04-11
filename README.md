@@ -71,7 +71,29 @@ oTree Experimental Code
 
 
 ### Part 3:Spotlight
-- Behavioral experimental paper：Fowler, James H., and Nicholas A. Christakis. "Cooperative behavior cascades in human social networks." Proceedings of the National Academy of Sciences 107, no. 12 (2010): 5334-5338.
+- Behavioral experimental paper：Anderhub, Vital, Dirk Engelmann, and Werner Güth. "An experimental study of the repeated trust game with incomplete information." Journal of Economic Behavior & Organization 48, no. 2 (2002): 197-216.
+(Anderhub et al. 2002)
+
+- What research question does the behavioral experimental research intended to address? 
+
+The main purpose of this paper is to study how participants' behavior develops in repeated trust games when they do not have complete information. Specifically, the researchers wanted to explore whether participants build trust over multiple rounds of the game, engage in more cooperative behavior, and whether their behavior is influenced by prior experience and backward induction when they do not know whether the other person will "betray" them (Anderhub et al. 2002).
+
+-How behavior in the experiments differ from backward induction? 
+
+Two different strategies were designed to explore how participants make decisions in repeated trust games. The first was a "psychological strategy," in which participants made decisions based on how much they trusted their opponents, and the second was a "social strategy," in which participants made decisions based on maximizing social benefits.
+Unlike backward induction, these strategies do not take into account what specific decisions an adversary might take, but simply consider decisions based on the participants' own trust and social interests. Backward induction is based on inferring the likely outcome of your opponent's actions in order to maximize your own gains.
+
+-What is the behavioral (e.g., psychological, social) foundation that underpinning the observed behavior? 
+
+The behaviour observed in the paper is based on participants' trusting and cooperative behaviour, as well as their expectations of future returns and attitudes towards risk. The results showed that participants' behavior was influenced by a number of factors, including their gender, cultural background, previous experience, information asymmetry, and the likelihood of repeated play. In addition, participants' behavior was influenced by psychological factors such as social norms, moral beliefs and concerns about fairness. Here is the basis for the behavior observed in several experiments:
+
+-Trust and return: Participants who invest in (fiduciaries) tend to reward trust by returning more money to investors later in the game.
+
+-Reputation: Participants build trustworthy or untrustworthy reputations based on their past actions in the game, which influence their behavior in subsequent rounds.
+
+-Conditional cooperation: Participants were more willing to cooperate (return more money) when they believed that another player was also likely to cooperate, and less likely to cooperate (return less money) when they believed that another player was likely to defect.
+
+
 
 What research question does the behavioral experimental research intended to address?
 
@@ -88,6 +110,8 @@ iii.  What are the effects of these non-economic factors on people's trust behav
 -  As a junior majoring in political economy, Rong Cong is very interested in economics, anthropology and psychology. She hopes to do enough cross-disciplinary research and study in the future. At the same time, Rong Cong is also a music lover. This is a cover of her song 👉🏻https://y.music.163.com/m/artist?app_version=8.9.61&id=46956986&userid=1572161264&dlt=0846.
    
 ### References
+
+- Anderhub, Vital, Dirk Engelmann, and Werner Güth. "An experimental study of the repeated trust game with incomplete information." Journal of Economic Behavior & Organization 48, no. 2 (2002): 197-216.
 
 - Aumann, Robert J. "Backward induction and common knowledge of rationality." Games and economic Behavior 8, no. 1 (1995): 6-19.
 
