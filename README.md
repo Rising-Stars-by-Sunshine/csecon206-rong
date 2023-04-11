@@ -18,7 +18,15 @@
 
 The Trust game is an experiment aimed at studying human trust and cooperative behavior. In this game, there are two participants: investor A and receiver B. Investor A has a certain amount of money and can choose to give some of it to receiver B. This money will be doubled, and receiver B can choose to return some of it to investor A or keep all the money. If receiver B chooses to return some of the money to investor A, then both investor A and receiver B will jointly receive more money. However, if receiver B chooses to keep all the money, then investor A will lose their investment. Analyzing the behavior of the investor and receiver can effectively analyze the psychology of human trust and cooperative behavior in real life.
 
-- Game Environment:
+### Game Environment:
+
+— Set of the players:In the Trust game, there are two players: one is called the “investor” and one is called the "receiver”. The investor has a certain amount of money and can choose to give some or all of it to the receiver. The receiver knows the investor's choice and can choose to allocate the money he receives to the receiver or not.
+
+- Strategies:
+In the Trust game, investors can adopt two strategies: trust and distrust. If investors choose to trust, they will choose to give a portion or all of the currency to the receiver, hoping that the receiver will return a certain amount of currency to them. This will bring a certain amount of risk to themselves because the receiver may not return a certain amount of money to the investor. If investors choose to distrust, they will choose not to give any currency to the receiver, so the receiver will not have any return.
+The immediate factor that affects strategy is actually the level of trust between players. The more the investor trusted the receiver, the more money they chose to give the receiver.
+
+- Payoffs: In the Trust game, players' payoffs are directly determined by their choices. Generally, because the money invested by the investor to the receiver is multiplied by a certain proportion, if the investor chooses to trust and the receiver chooses to reciprocate, both will receive more money. If the investor chooses to trust but the receiver chooses not to reciprocate, the investor will lose all the money, and the receiver will get all the money. If the investor chooses not to trust, neither will receive any payoff.
 
 
 ### Code
