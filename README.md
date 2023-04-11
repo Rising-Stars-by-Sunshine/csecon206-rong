@@ -90,6 +90,21 @@ Anderhub, Vital, Dirk Engelmann, and Werner Güth. "An experimental study of the
 3. Conditional cooperation: Participants were more willing to cooperate (return more money) when they believed that another player was also likely to cooperate, and less likely to cooperate (return less money) when they believed that another player was likely to defect.
 
 
+### Reinforcement learning paper:###
+Wu, D. J., Steven O. Kimbrough, and Fang Zhong. "Artificial agents play the" Mad Mex trust game": a computational approach." In Proceedings of the 35th Annual Hawaii International Conference on System Sciences, pp. 389-398. IEEE, 2002.
+
+
+
+### The game environment and learning algorithm:
+The researchers designed a computer-simulated game environment called the "Mad Mex trust game"(We 2002). In the game, there are two agents, each with some coins. In each round, the agents can choose to cooperate or defect. If both agents choose to cooperate, they will each lose some coins but collectively gain more coins. If one agent chooses to defect, they will gain more coins, and the other agent will lose their coins. The goal of the agents is to maximize their total number of coins.
+The researchers used a learning algorithm called Q-learning to train the agents. Q-learning is a feedback-based reinforcement learning algorithm in which the agents continually try and learn the optimal action strategy in the game to maximize their cumulative reward (We 2002). At the end of each round, the agents update their Q-value function to reflect the quality of the action they took. In the early stages of the game, the agents explore with random action strategies and adjust based on feedback. As the game progresses, the agents gradually develop more optimized strategies.
+
+### Inspirations from reinforcement learning agent strategies:
+
+The reinforcement learning agents in this paper adopted a cooperative strategy in the game. They are more inclined to choose cooperation rather than defection. This strategy has many similarities to the process of building trust between humans. For example, in human society, we generally tend to trust people who exhibit cooperation and honesty rather than those who exhibit betrayal and dishonesty.
+By simulating this cooperative strategy, the reinforcement learning agents in this paper can gradually establish mutual trust in the game, which can be replicated and promoted in similar social situations. In addition, by analyzing the agents' strategy choices and learning processes, we can better understand the process of building trust between humans in social interactions and the psychological mechanisms of human decision-making. This knowledge can be applied to research and applications in social and economic fields, helping us better understand human behavior and design more effective policies and mechanisms to promote trust and cooperation.
+
+
 
 
 ### More about the Author
@@ -127,7 +142,10 @@ Anderhub, Vital, Dirk Engelmann, and Werner Güth. "An experimental study of the
 
 - Sabbagh, Clara. "Joseph Henrich-Robert Boyd-Samuel Bowles-Colin Camerer-Ernst Fehr-Herbert Gintis (eds.): Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-Scale Societies." Sociologický časopis/Czech Sociological Review 44, no. 6 (2008): 1205-1207.
 
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+- Wu, D. J., Steven O. Kimbrough, and Fang Zhong. "Artificial agents play the" Mad Mex trust game": a computational approach." In Proceedings of the 35th Annual Hawaii International Conference on System Sciences, pp. 389-398. IEEE, 2002.
+
+
+Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
