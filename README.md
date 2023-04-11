@@ -28,6 +28,27 @@ The immediate factor that affects strategy is actually the level of trust betwee
 
 - Payoffs: In the Trust game, players' payoffs are directly determined by their choices. Generally, because the money invested by the investor to the receiver is multiplied by a certain proportion, if the investor chooses to trust and the receiver chooses to reciprocate, both will receive more money. If the investor chooses to trust but the receiver chooses not to reciprocate, the investor will lose all the money, and the receiver will get all the money. If the investor chooses not to trust, neither will receive any payoff.
 
+### Backward induction
+The solution based on backward induction in the Trust game is a solution to the trust and cooperation problem between investors and receivers. This solution is based on the idea of backward induction, which guides one's decision-making by considering the other's possible reactions and outcomes, thereby achieving the best outcome of mutual trust and cooperation (Aumann & Robert J, 1995).
+
+In the Trust game, the solution based on backward induction guides the investor's decision-making by considering the receiver's possible reactions and outcomes. Specifically, the investor will recursively consider the receiver's decision tree to infer how the receiver will make choices. If the investor believes that the receiver will return a considerable amount, then they will choose to trust and give more money or even all the money in the first round, thus achieving the best outcome of cooperation for both parties (at this point, the total final payoff for both parties is maximized). If the investor believes that the receiver will return a relatively small amount (but at least return something), then they will choose to trust and give a small amount of money in the first round, achieving relatively good results for both parties. If the investor believes that the receiver will not return anything, then they will choose not to trust and give the receiver no money in the first round, thereby avoiding their own loss.
+
+
+
+### Evaluation
+
+In the trust game, the backward induction solution is effective because it allows investors to make decisions based on their expectations of how the receiver will perform. By considering the possible outcomes of their behavior and the receiver's response, investors can choose the optimal strategy to maximize their payoff.Research shows that the backward induction solution can increase trust and cooperation among participants in trust games (Charness et al., 2002). Compared to participants using random strategies, those using the backward induction strategy are more likely to trust their partners and receive higher payoffs (Charness et al., 2002).
+
+
+### Efficiency
+
+- The solution based on inverse induction in the Trust game can be considered a fair solution, as it provides an opportunity for both investors and receivers to achieve maximum joint benefit. Through the concept of inverse induction, investors can consider the receiver's decision tree and predict how the receiver will make their choice, thereby providing guidance for making the optimal decision for themselves. The solution based on inverse induction can be viewed as a fair solution because it encourages trust and cooperation between participants while considering the payoffs for both parties and avoiding one person gaining too much advantage.
+
+- Firstly, this approach emphasizes the importance of trust and cooperation as it allows participants to consider the payoff of both parties while considering their own payoff. In this situation, investors must consider how much money to give to the receiver so that both parties can achieve maximum benefit in case of receiving a payoff. Similarly, the receiver must consider whether to reciprocate and decide how much money to return to maximize the joint benefit of both parties.
+
+- Secondly, the inverse induction solution can also avoid one person gaining too much advantage in the game. Because investors must consider the receiver's reaction and possible outcomes, they cannot simply choose a strategy that only cares about their own payoff. Instead, they must consider their relationship with the receiver and how their choice may affect the payoff of both parties. This interdependent relationship helps maintain fairness between participants, thereby maximizing the payoff for both parties.
+
+
 
 ### Part2：Code
 
@@ -66,6 +87,8 @@ iii.  What are the effects of these non-economic factors on people's trust behav
    
 ### References
 
+- Aumann, Robert J. "Backward induction and common knowledge of rationality." Games and economic Behavior 8, no. 1 (1995): 6-19.
+
 - Baron-Cohen, Simon, Rebecca C. Knickmeyer, and Matthew K. Belmonte. "Sex differences in the brain: implications for explaining autism." Science 310, no. 5749 (2005): 819-823.
 
 - Berg, Joyce, John Dickhaut, and Kevin McCabe. "Trust, reciprocity, and social history." Games and economic behavior 10, no. 1 (1995): 122-142.
@@ -77,6 +100,8 @@ iii.  What are the effects of these non-economic factors on people's trust behav
 - Cappelletti, Dominique, Werner Güth, and Matteo Ploner. "Being of two minds: Ultimatum offers under cognitive constraints." Journal of Economic Psychology 32, no. 6 (2011): 940-950.
 
 - Charness, Gary, and Matthew Rabin. "Expressed preferences and behavior in experimental games." Games and economic behavior 53, no. 2 (2005): 151-169.
+
+- Charness, Gary, and Matthew Rabin. "Understanding social preferences with simple tests." The quarterly journal of economics 117, no. 3 (2002): 817-869.
 
 - Croson, Rachel, and Nancy Buchan. "Gender and culture: International experimental evidence from trust games." American Economic Review 89, no. 2 (1999): 386-391.
 
