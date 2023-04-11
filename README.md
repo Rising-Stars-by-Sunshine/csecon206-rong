@@ -15,6 +15,9 @@
 - references
 
 ### Model
+
+The Trust game is an experiment aimed at studying human trust and cooperative behavior. In this game, there are two participants: investor A and receiver B. Investor A has a certain amount of money and can choose to give some of it to receiver B. This money will be doubled, and receiver B can choose to return some of it to investor A or keep all the money. If receiver B chooses to return some of the money to investor A, then both investor A and receiver B will jointly receive more money. However, if receiver B chooses to keep all the money, then investor A will lose their investment. Analyzing the behavior of the investor and receiver can effectively analyze the psychology of human trust and cooperative behavior in real life.
+
 - Game Environment:
 
 
