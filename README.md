@@ -1,4 +1,4 @@
-# # Trust Game Dessigned by Rong
+## Trust Game Dessigned by Rong
 ## Project information
 - **Author**: Rong Cong,Political Economy, 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
