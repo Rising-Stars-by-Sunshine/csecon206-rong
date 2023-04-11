@@ -14,9 +14,9 @@
 - more about the author
 - references
 
-### Model
+### Part1 Model
 
-The Trust game is an experiment aimed at studying human trust and cooperative behavior. In this game, there are two participants: investor A and receiver B. Investor A has a certain amount of money and can choose to give some of it to receiver B. This money will be doubled, and receiver B can choose to return some of it to investor A or keep all the money. If receiver B chooses to return some of the money to investor A, then both investor A and receiver B will jointly receive more money. However, if receiver B chooses to keep all the money, then investor A will lose their investment. Analyzing the behavior of the investor and receiver can effectively analyze the psychology of human trust and cooperative behavior in real life.
+The Trust game is an experiment aimed at studying human trust and cooperative behavior (Sabbagh&Clara 2008). In this game, there are two participants: investor A and receiver B. Investor A has a certain amount of money and can choose to give some of it to receiver B. This money will be doubled, and receiver B can choose to return some of it to investor A or keep all the money. If receiver B chooses to return some of the money to investor A, then both investor A and receiver B will jointly receive more money. However, if receiver B chooses to keep all the money, then investor A will lose their investment. Analyzing the behavior of the investor and receiver can effectively analyze the psychology of human trust and cooperative behavior in real life.
 
 ### Game Environment:
 
@@ -29,7 +29,7 @@ The immediate factor that affects strategy is actually the level of trust betwee
 - Payoffs: In the Trust game, players' payoffs are directly determined by their choices. Generally, because the money invested by the investor to the receiver is multiplied by a certain proportion, if the investor chooses to trust and the receiver chooses to reciprocate, both will receive more money. If the investor chooses to trust but the receiver chooses not to reciprocate, the investor will lose all the money, and the receiver will get all the money. If the investor chooses not to trust, neither will receive any payoff.
 
 
-### Code
+### Part2：Code
 
 The customized game changed three things from the original game. First, the endowment went from 100 to 10,000. Second, the multiplier went from 3 to 10,000. Third, custom games collect the gender and age of the player and the socio-cultural environment of the simple player before the game starts.I will introduce the reasons for my modification in detail below.
 
@@ -47,7 +47,7 @@ The customized game changed three things from the original game. First, the endo
 oTree Experimental Code 
 
 
-### Spotlight
+### Part 3:Spotlight
 - Behavioral experimental paper：Fowler, James H., and Nicholas A. Christakis. "Cooperative behavior cascades in human social networks." Proceedings of the National Academy of Sciences 107, no. 12 (2010): 5334-5338.
 
 What research question does the behavioral experimental research intended to address?
@@ -83,6 +83,8 @@ iii.  What are the effects of these non-economic factors on people's trust behav
 - Gelfand, M. J., D. P. S. Bhawuk, L. H. Nishii, D. J. Bechtold, R. J. House, P. J. Hanges, M. Javidan, P. W. Dorfman, and V. Gupta. "Culture, leadership, and organizations: The GLOBE study of 62 societies." Individualism and collectivism (2004): 437-512.
 
 - McCabe, Kevin A., Mary L. Rigdon, and Vernon L. Smith. "Positive reciprocity and intentions in trust games." Journal of Economic Behavior & Organization 52, no. 2 (2003): 267-275.
+
+- Sabbagh, Clara. "Joseph Henrich-Robert Boyd-Samuel Bowles-Colin Camerer-Ernst Fehr-Herbert Gintis (eds.): Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-Scale Societies." Sociologický časopis/Czech Sociological Review 44, no. 6 (2008): 1205-1207.
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
