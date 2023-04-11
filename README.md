@@ -65,7 +65,7 @@ In this experiment, A and B are relatively unfair, because if A chooses to minim
 
 The customized game changed three things from the original game. First, the endowment went from 100 to 10,000. Second, the multiplier went from 3 to 10,000. Third, custom games collect the gender and age of the player and the socio-cultural environment of the simple player before the game starts.I will introduce the reasons for my modification in detail below.
 
-Explanation
+### Explanation
 
 Traditional research suggests that in general, the more initial endowment, the more likely Player A is to choose to share, while Player B is more likely to share some or all of their endowment with Player A (Charness et al. 2005). This is because the amount of initial endowment affects Player A's expected earnings and risk perception. If the endowment is high, Player A will be more likely to bear the risk of sharing and will have more confidence in obtaining higher returns. For Player B, the amount of endowment also affects their expected earnings and risk perception. If the endowment is high, they will be more likely to share because they believe in Player A's sharing behavior and higher returns (McCabe et al. 2003). In the customized game, the initial endowment is set at $10,000, a relatively considerable amount. In estimating and assuming the game results, Player A is expected to share at least some of their endowment with Player B. This makes any choice not to share the initial endowment very interesting and worth studying.
 
