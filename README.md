@@ -64,7 +64,22 @@ B will receive all the money. A will lose all the money.
 ### Backward induction
 The solution based on backward induction in the Trust game is a solution to the trust and cooperation problem between investors and receivers. This solution is based on the idea of backward induction, which guides one's decision-making by considering the other's possible reactions and outcomes, thereby achieving the best outcome of mutual trust and cooperation (Aumann & Robert J, 1995).
 
-In the Trust game, the solution based on backward induction guides the investor's decision-making by considering the receiver's possible reactions and outcomes. Specifically, the investor will recursively consider the receiver's decision tree to infer how the receiver will make choices. If the investor believes that the receiver will return a considerable amount, then they will choose to trust and give more money or even all the money in the first round, thus achieving the best outcome of cooperation for both parties (at this point, the total final payoff for both parties is maximized). If the investor believes that the receiver will return a relatively small amount (but at least return something), then they will choose to trust and give a small amount of money in the first round, achieving relatively good results for both parties. If the investor believes that the receiver will not return anything, then they will choose not to trust and give the receiver no money in the first round, thereby avoiding their own loss.
+For a backward induction analysis of the strategies in the Trust game, the following are the optimal strategies for each decision node:
+
+Final decision node:
+In the Trust game, the final decision node is B choosing whether to return the money or not. According to the strategy in the previous section, the best strategy is for B to choose not to return any money and to keep all the money.
+
+Previous decision node:
+In the Trust game, the previous decision node is when A chooses whether to transfer a portion of the money to B. The best strategy is for A to choose not to transfer any money to B and keep all the money.
+
+
+Moving forward, we can see that there are no more decision nodes before the previous one. So this is the end of the backward induction process.
+
+To sum up, the result of backward induction analysis is:
+B's best strategy is to give nothing back and keep everything.
+A's best strategy is not to transfer any money to B and to keep all the money.
+
+
 
 
 
