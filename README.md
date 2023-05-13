@@ -23,8 +23,43 @@ The Trust game is an experiment aimed at studying human trust and cooperative be
 - Set of the players:In the Trust game, there are two players: one is called the “investor” and one is called the "receiver”. The investor has a certain amount of money and can choose to give some or all of it to the receiver. The receiver knows the investor's choice and can choose to allocate the money he receives to the receiver or not.
 
 - Strategies:
-In the Trust game, investors can adopt two strategies: trust and distrust. If investors choose to trust, they will choose to give a portion or all of the currency to the receiver, hoping that the receiver will return a certain amount of currency to them. This will bring a certain amount of risk to themselves because the receiver may not return a certain amount of money to the investor. If investors choose to distrust, they will choose not to give any currency to the receiver, so the receiver will not have any return.
-The immediate factor that affects strategy is actually the level of trust between players. The more the investor trusted the receiver, the more money they chose to give the receiver.
+In the trust game, there are two players, investor A and receiver B. Here are all the possible strategies for each player:
+
+Payoffs of A = Endowment－sent_amount + sent_back_amount.
+Payoffs of B = sent_amount *10000－sent_back_amount.
+
+Strategies for Investor (Player A):
+1.	Complete Trust Strategy: Transferring all money to receiver B.
+2.	Partial Trust Strategy: Transferring a part of money to receiver B, while keeping partial money.
+3.	No Trust Strategy: Transferring no money to receiver B and keeping all money.
+
+Strategies for Receiver (Player B):
+1.	Return All Strategy: Returning all money to investor A.
+2.	Partial Return Strategy: Giving a partial return to the investor and keeping partial money.
+3.	No Return Strategy: Returning no money and keeping all the money.
+
+Sequence of actions for each contingency:
+
+Investor A (Player A) :
+1.	Complete Trust Strategy:
+If receiver B chooses to return the funds, investor A will get partial money.
+If receiver B chooses not to return the funds, investor A will lose all the funds.
+2.	Partial Trust Strategy:
+If receiver B chooses to return some part of the funds, A will keep some money.
+If receiver B chooses not to return the funds, A will lose some money which he/she transfers to B, but still keeps some money.
+3.	No Trust Strategy:
+Whether investor A chooses to return or not, A chooses not to transfer any money to B and keeps all the money.
+
+Receiver B (Player B) :
+1.	Return All Strategy:
+B will lose all his money.
+2.	Partial Return Strategy:
+Both sides will get some of the money.
+3.	No Return Strategy:
+B will receive all the money. A will lose all the money.
+![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-rong/assets/129028315/c56477b7-9e08-45e3-9a03-b6af0f9095a3)
+
+
 
 - Payoffs: In the Trust game, players' payoffs are directly determined by their choices. Generally, because the money invested by the investor to the receiver is multiplied by a certain proportion, if the investor chooses to trust and the receiver chooses to reciprocate, both will receive more money. If the investor chooses to trust but the receiver chooses not to reciprocate, the investor will lose all the money, and the receiver will get all the money. If the investor chooses not to trust, neither will receive any payoff.
 
