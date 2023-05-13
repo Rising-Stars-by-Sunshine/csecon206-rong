@@ -58,9 +58,6 @@ B will lose all his money.
 Both sides will get some of the money.
 3.	No Return Strategy:
 B will receive all the money. A will lose all the money.
-![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-rong/assets/129028315/c56477b7-9e08-45e3-9a03-b6af0f9095a3)
-
-
 
 - Payoffs: In the Trust game, players' payoffs are directly determined by their choices. Generally, because the money invested by the investor to the receiver is multiplied by a certain proportion, if the investor chooses to trust and the receiver chooses to reciprocate, both will receive more money. If the investor chooses to trust but the receiver chooses not to reciprocate, the investor will lose all the money, and the receiver will get all the money. If the investor chooses not to trust, neither will receive any payoff.
 
