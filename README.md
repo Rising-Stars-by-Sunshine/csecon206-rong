@@ -29,17 +29,17 @@ In the trust game, there are two players, investor A and receiver B. Here are al
 
 Payoffs of B = sent_amount *10000－sent_back_amount.
 
-- - Strategies for Investor (Player A):
+  - Strategies for Investor (Player A):
 1.	Complete Trust Strategy: Transferring all money to receiver B.
 2.	Partial Trust Strategy: Transferring a part of money to receiver B, while keeping partial money.
 3.	No Trust Strategy: Transferring no money to receiver B and keeping all money.
 
-- - Strategies for Receiver (Player B):
+  - Strategies for Receiver (Player B):
 1.	Return All Strategy: Returning all money to investor A.
 2.	Partial Return Strategy: Giving a partial return to the investor and keeping partial money.
 3.	No Return Strategy: Returning no money and keeping all the money.
 
-- - Sequence of actions for each contingency:
+  - Sequence of actions for each contingency:
 
 Investor A (Player A) :
 1.	Complete Trust Strategy:
