@@ -79,6 +79,8 @@ To sum up, the result of backward induction analysis is:
 B's best strategy is to give nothing back and keep everything.
 A's best strategy is not to transfer any money to B and to keep all the money.
 
+According to the result of backward induction analysis, the solution of the Trust game is that B does not return any money and A does not give any funds to B. This means that neither side will end up transferring money, leaving their respective money unchanged.
+
 
 
 
