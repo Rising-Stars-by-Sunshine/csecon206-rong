@@ -26,6 +26,7 @@ The Trust game is an experiment aimed at studying human trust and cooperative be
 In the trust game, there are two players, investor A and receiver B. Here are all the possible strategies for each player:
 
 Payoffs of A = Endowment－sent_amount + sent_back_amount.
+
 Payoffs of B = sent_amount *10000－sent_back_amount.
 
 Strategies for Investor (Player A):
