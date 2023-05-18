@@ -39,6 +39,7 @@ Payoffs of B = sent_amount *10000－sent_back_amount.
 2.	Partial Return Strategy: Giving a partial return to the investor and keeping partial money.
 3.	No Return Strategy: Returning no money and keeping all the money.
 
+
   - Sequence of actions for each contingency:
 
 Investor A (Player A) :
