@@ -93,7 +93,7 @@ In the trust game, the backward induction solution is effective because it allow
 
 ### Efficiency
 
-- Definition of efficiency：
+- Definition of efficiency:
 In this Trust game, efficiency is defined as the total amount of money that a participant ends up with. In other words, efficiency measures the degree of resource utilization in the whole game and the benefits of the players by calculating the total amount received by the final players. The higher the efficiency, it means that the participants can make full use of the game opportunities and get more capital returns.
 
 - The solution based on inverse induction in the Trust game can be considered a fair solution, as it provides an opportunity for both investors and receivers to achieve maximum joint benefit. Through the concept of inverse induction, investors can consider the receiver's decision tree and predict how the receiver will make their choice, thereby providing guidance for making the optimal decision for themselves. The solution based on inverse induction can be viewed as a fair solution because it encourages trust and cooperation between participants while considering the payoffs for both parties and avoiding one person gaining too much advantage.
